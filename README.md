@@ -1,81 +1,77 @@
-# Sentry 🛡️
+![Camouflage banner](https://images.unsplash.com/photo-1738598631581-de0a280d8f01?w=1200&h=320&fit=crop&auto=format&q=80)
 
-<img align="right" height="280px" src="https://images.unsplash.com/photo-1634704784915-ec5b8b17a933?w=400&h=280&fit=crop" alt="Tactical operator in urban setting">
+<div align="center">
 
-> **Tactical cybersecurity expertise. Always operational.**
+# 🛡️ Sentry
 
----
+Cybersecurity student focused on DevSecOps, malware analysis, and defense-in-depth security.
 
-## 🎯 Mission Focus
+![Status](https://img.shields.io/badge/status-operational-4B5320?style=flat-square)
+![Focus](https://img.shields.io/badge/focus-cybersecurity-606C38?style=flat-square)
 
-- **DevSecOps** — Secure development pipelines & infrastructure
-- **Malware Analysis** — Threat detection & reverse engineering
-- **Cybersecurity** — Defense-in-depth strategies
-- **Tactical Operations** — Precision security implementation
+</div>
 
 ---
 
-## 💻 Combat-Ready Arsenal
+## Focus
 
-### Programming Languages
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                    OPERATIVE SKILLSET MATRIX                   ║
-╚════════════════════════════════════════════════════════════════╝
-
-🔴 ZIG              ████████████████████ 10/10
-   └─ Systems programming mastery. Maximum efficiency.
-
-🟠 JAVASCRIPT       ██████████████████░░ 09/10
-   └─ Web warfare. Full-stack combat operations.
-
-🟡 C               ███████████████████░ 08/10
-   └─ Low-level control. Memory discipline.
-
-🟢 C++             ███████████████░░░░░ 07/10
-   └─ Performance engineering. Object-oriented tactics.
-
-🔵 PYTHON          ██████░░░░░░░░░░░░░░ 06/10
-   └─ Scripting & automation. Secondary arsenal.
-```
+- **DevSecOps.** Security built into development pipelines and infrastructure from the start.
+- **Malware analysis.** Threat detection and reverse engineering.
+- **Defense-in-depth.** Layered security strategy across systems.
+- **Tactical discipline.** Precise, methodical execution under pressure.
 
 ---
 
-## 🏆 Tactical Certifications
+## Technical skills
 
-| 🎖️ Credential | Status |
+<div align="center">
+
+![Zig](https://img.shields.io/badge/Zig-3B3C36?style=flat-square&logo=zig&logoColor=F7A41D)
+![JavaScript](https://img.shields.io/badge/JavaScript-4B5320?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-606C38?style=flat-square&logo=c&logoColor=white)
+![C%2B%2B](https://img.shields.io/badge/C%2B%2B-3B3C36?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B5320?style=flat-square&logo=python&logoColor=3776AB)
+
+</div>
+
+| Language | Level |
 |---|---|
-| **Fortinet Certified Fundamentals (FCF)** | ✓ Verified |
-| **GIAC Security Essentials (GSEC)** | ✓ Verified |
-| **Certified Information Privacy Professional (CIPP)** | ✓ Verified |
+| Zig | Expert |
+| JavaScript | Advanced |
+| C | Advanced |
+| C++ | Intermediate |
+| Python | Intermediate |
 
 ---
 
-## 📊 Operational Status
+## Certifications
 
-```
-╔═══════════════════════════════════════════════════════╗
-║            SYSTEM DIAGNOSTIC REPORT                   ║
-╠═══════════════════════════════════════════════════════╣
-║ Security Posture:        ████████████████████ 100%  ║
-║ System Integrity:        ████████████████████ 100%  ║
-║ Threat Detection:        ████████████████████ LIVE  ║
-║ Response Time:           ████████████████████ READY ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-🟢 **All systems green. Standing by.**
+| Credential | Issuer | Status |
+|---|---|---|
+| Fortinet Certified Fundamentals (FCF) | Fortinet | Verified |
+| GIAC Security Essentials (GSEC) | GIAC | Verified |
+| Certified Information Privacy Professional (CIPP) | IAPP | Verified |
 
 ---
 
-## 🎖️ Technical Philosophy
+## Status
 
-Combining strategic threat intelligence with hands-on security implementation. 
-Optimized for maximum efficiency and minimal footprint.
-
-**Precision. Persistence. Protection.**
+![Security posture](https://img.shields.io/badge/security_posture-100%25-4B5320?style=flat-square)
+![System integrity](https://img.shields.io/badge/system_integrity-100%25-606C38?style=flat-square)
+![Threat detection](https://img.shields.io/badge/threat_detection-live-3B3C36?style=flat-square)
 
 ---
 
-*Last Updated: Active Deployment* ⚡
+<div align="center">
+
+**Connect**
+
+[![GitHub](https://img.shields.io/badge/GitHub-3B3C36?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B5320?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-606C38?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+<br>
+
+*Precision. Persistence. Protection.*
+
+</div>
