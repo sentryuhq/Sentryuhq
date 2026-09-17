@@ -1,4 +1,4 @@
-![Camouflage banner](https://images.unsplash.com/photo-1738598631581-de0a280d8f01?w=1200&h=320&fit=crop&auto=format&q=80)
+![Camouflage banner](https://i.pinimg.com/736x/4c/39/46/4c3946377791dafadc54a89b987c8d35.jpg)
 
 <div align="center">
 
